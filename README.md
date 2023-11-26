@@ -2,10 +2,7 @@
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/krishanpareek809/ogani-fruits-and-vegetables-ecommerce-php-laravel.git
 ```
 
 Go to the project directory
